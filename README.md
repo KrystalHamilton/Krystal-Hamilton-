@@ -14,7 +14,7 @@ Outside of work, I'm passionate about health and wellness, a huge sports fan, an
 
 ## 🚀 Focus Areas
 
-As Strategic Partnership and Alliance Lead, I manage and grow Liatrio's key technology alliances — including **AWS**, **Anthropic**, **OpenAI**, and **Workato** — alongside other strategic technology partnerships across the organization.
+As Strategic Partnership and Alliance Lead, I manage and grow Liatrio's key technology alliances — including **AWS**, **Anthropic**, **OpenAI** — alongside other strategic technology partnerships across the organization.
 
 My focus is on identifying growth opportunities, building strong partner relationships, creating alignment between alliance activity and Liatrio's broader business goals, and ensuring our partnerships drive meaningful outcomes for both our clients and our teams.
 
